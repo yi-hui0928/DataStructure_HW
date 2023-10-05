@@ -1,0 +1,11 @@
+Notes of C programming
+
+特訓練習(Sparse Matrix)1-4 在c3ary類別中加上解構子
+
+完成(Sparse Matrix)1-3後，可開始加上解構子，再執行程式並解決錯誤。
+如無法解決錯誤，請觀看老師的影片(解構子說明)。
+程式碼要求:
+1. 請執行完matrix相加之後，列印matrix C之後，
+還要再列印一次matrix A 與 matrix B
+2. add()中的for loop (或 while loop)判別式中，
+比較matrix A matrix B的位置時，if else 只能有3次

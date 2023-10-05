@@ -1,0 +1,8 @@
+Array and structure
+
+特訓1: Sparse Matrix Addition using 3-column Array
+
+特訓班 練習1: Sparse Matrix Addition
+1. 程式功能1: 首先開啟檔案hw1.in，讀取二維整數陣列共12列6行，分別存入m[6][6],t[6][6]
+2. 程式功能2: 利用3coulmn array m3, t3有效率儲存m, t。
+3. 程式功能3: 利用m3, t3進行矩陣相加，並列印矩陣m+t的矩陣結果(不是陣列)。列印出之6*6的結果，必須對齊每行必須對齊

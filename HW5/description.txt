@@ -1,0 +1,11 @@
+Array and structure
+
+特訓練習(Sparse Matrix)1-3 以類別儲存A,B
+
+完成Sparse Matrix)1-2後，可以開始玩底下:
+利用現成的附件，把 Sparse Matrix)1-2 中，infile讀到的 matrix A and B，
+都用類別儲存 A,B，其中資料成員都是private(私有屬性)。 需求都寫在程式碼中。
+請記得利用現成的函式取代反覆出現的指令，例如利用push。
+寫完後，也要開始寫Matrix相加，你可以多加membership functions 達到你需要的功能，
+在main中執行相加結果、再呼叫prn_ary & prn_matrix
+上傳截止日2020/10/26

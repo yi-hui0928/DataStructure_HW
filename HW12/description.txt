@@ -1,0 +1,20 @@
+Sorting
+
+作業3：使用5種sort進行排序
+
+1. 使用亂數產生1000個數字
+使用Bubble Sort(要用旗標)、Insert Sort、Select Sort、Quick Sort、Heap Sort這5種方式對第1.種資料進行排序，並記錄每一種方式使用的時間(結束時間-開始時間)
+
+2. 使用亂數產生1000個數字，且1~950個數字已經排序過(先用任何方式排序)
+使用第1題提到的5種排序方式對第2.種資料進行排序，並記錄每一種排序方式使用的時間
+
+
+*亂數產生的值需<10000，及亂數%10000
+
+
+列印範例：
+bubble sort：xx.xxx秒
+insert sort：xx.xxx秒
+select sort：xx.xxx秒
+quick sort：xx.xxx秒
+heap sort：xx.xxx秒

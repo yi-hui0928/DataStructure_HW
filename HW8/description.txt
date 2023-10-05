@@ -1,0 +1,15 @@
+Stacks, Linked Lists, Linked Lists in Array;
+
+作業2:老鼠迷宮最終版 (最慢11/24繳交)
+
+如課堂所述:
+請參考 最新公告
+1.請用stack，勿用recursion
+2. 請宣告Class stack，其中含陣列指標(如講義)，使用動態空間配置
+底下佔10%
+3. 請宣告 deconstructor，執行delete [] items
+
+請大家互相鼓勵與學習，可以討論，不要給source code。
+
+輸入檔請參2020.10.19 育瑄老師給的最新消息
+謝謝

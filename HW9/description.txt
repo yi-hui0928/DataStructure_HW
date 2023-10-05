@@ -1,0 +1,5 @@
+Stacks, Linked Lists, Linked Lists in Array;
+
+作業1:多項式相加(最終版)
+
+如課堂要求，以類別宣告與執行。
